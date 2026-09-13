@@ -14,6 +14,7 @@ public class Estudante {
         } else {
             System.out.print("Você ficou de recuperação! Informe a nota da sua NP3: ");
             int NP3 = entrada.nextInt();
+            
             int soma = NPA + NP3;
             double NFA = soma / 2.0;
 
