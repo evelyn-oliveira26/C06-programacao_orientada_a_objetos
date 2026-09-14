@@ -7,7 +7,7 @@ public class Zumbi {
     }
 
     void transfereVida(Zumbi zumbiAlvo, double quantia) {
-        this.vida -= quantia;
+        vida -= quantia;
         zumbiAlvo.vida += quantia;
     }
 }
