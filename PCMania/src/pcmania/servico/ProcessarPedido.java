@@ -4,6 +4,6 @@ import pcmania.modelo.Computador;
 
 public class ProcessarPedido {
     public static void enviarPedido(Computador[] computadores) {
-        System.out.println("Pedido enviado.");
+        System.out.println("Pedido enviado...");
     }
 }
